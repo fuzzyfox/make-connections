@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="500"
+   width="960"
+   id="svg2"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="example.svg"
+   inkscape:export-filename="example.png"
+   inkscape:export-xdpi="246.11"
+   inkscape:export-ydpi="246.11">
+  <metadata
+     id="metadata442">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs440" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="828"
+     id="namedview438"
+     showgrid="false"
+     inkscape:zoom="1.0370899"
+     inkscape:cx="501.22656"
+     inkscape:cy="226.48451"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <style
+     id="style4">
+
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+</style>
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="374.48641309390723"
+     x1="523.6649487480305"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line6" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="413.65608464609056"
+     x1="536.1132098564593"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line8" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="353.18202071511007"
+     x1="554.3010151762281"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line10" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="304.353590254645"
+     x1="509.75014484601036"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line12" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="364.40042900101855"
+     x1="589.7594828886972"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line14" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="384.1930505414367"
+     x1="563.3348332710301"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line16" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="425.30544623957246"
+     x1="496.85800164886246"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line18" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="376.82069306408084"
+     x1="481.526325778221"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line20" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="397.92853707941106"
+     x1="495.316989388324"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line22" />
+  <line
+     y2="374.48641309390723"
+     x2="523.6649487480305"
+     y1="406.23248320932987"
+     x1="557.5843352278836"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line24" />
+  <line
+     y2="364.40042900101855"
+     x2="589.7594828886972"
+     y1="348.96678676624407"
+     x1="647.940663080785"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line26" />
+  <line
+     y2="304.353590254645"
+     x2="509.75014484601036"
+     y1="320.33802000900346"
+     x1="470.19972179086056"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line28" />
+  <line
+     y2="425.30544623957246"
+     x2="496.85800164886246"
+     y1="421.1169675823863"
+     x1="450.6314552353347"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line30" />
+  <line
+     y2="304.353590254645"
+     x2="509.75014484601036"
+     y1="335.4896526729579"
+     x1="490.9719721004826"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line32" />
+  <line
+     y2="304.353590254645"
+     x2="509.75014484601036"
+     y1="221.7801077301601"
+     x1="494.6500978710071"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line34" />
+  <line
+     y2="425.30544623957246"
+     x2="496.85800164886246"
+     y1="459.0581166625718"
+     x1="525.570016434025"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line36" />
+  <line
+     y2="425.30544623957246"
+     x2="496.85800164886246"
+     y1="468.7340090071405"
+     x1="480.75700602800566"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line38" />
+  <line
+     y2="425.30544623957246"
+     x2="496.85800164886246"
+     y1="458.55090129349975"
+     x1="462.334506439496"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line40" />
+  <line
+     y2="425.30544623957246"
+     x2="496.85800164886246"
+     y1="470.4447438555717"
+     x1="503.5193740521578"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line42" />
+  <line
+     y2="425.30544623957246"
+     x2="496.85800164886246"
+     y1="442.13814294821634"
+     x1="449.8959465718873"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line44" />
+  <line
+     y2="348.96678676624407"
+     x2="647.940663080785"
+     y1="355.27477909324864"
+     x1="687.4257560269145"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line46" />
+  <line
+     y2="348.96678676624407"
+     x2="647.940663080785"
+     y1="385.1895411051943"
+     x1="662.9273482723689"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line48" />
+  <line
+     y2="348.96678676624407"
+     x2="647.940663080785"
+     y1="312.4231461210218"
+     x1="679.0701986650836"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line50" />
+  <line
+     y2="221.7801077301601"
+     x2="494.6500978710071"
+     y1="235.10750103485606"
+     x1="547.4708902550819"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line52" />
+  <line
+     y2="221.7801077301601"
+     x2="494.6500978710071"
+     y1="197.47134086349962"
+     x1="557.9586279691705"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line54" />
+  <line
+     y2="221.7801077301601"
+     x2="494.6500978710071"
+     y1="186.01354183937292"
+     x1="533.7199614190795"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line56" />
+  <line
+     y2="221.7801077301601"
+     x2="494.6500978710071"
+     y1="259.4582816327974"
+     x1="469.0826540752772"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line58" />
+  <line
+     y2="221.7801077301601"
+     x2="494.6500978710071"
+     y1="252.9186549814076"
+     x1="514.4178533857875"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line60" />
+  <line
+     y2="221.7801077301601"
+     x2="494.6500978710071"
+     y1="178.03086901657645"
+     x1="430.1438209831776"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line62" />
+  <line
+     y2="235.10750103485606"
+     x2="547.4708902550819"
+     y1="219.54969242505388"
+     x1="593.0195236690944"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line64" />
+  <line
+     y2="355.27477909324864"
+     x2="687.4257560269145"
+     y1="354.9813847615393"
+     x1="724.2780121344463"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line66" />
+  <line
+     y2="235.10750103485606"
+     x2="547.4708902550819"
+     y1="242.96406652034082"
+     x1="594.3681043313236"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line68" />
+  <line
+     y2="235.10750103485606"
+     x2="547.4708902550819"
+     y1="263.72976327218737"
+     x1="580.838315756982"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line70" />
+  <line
+     y2="312.4231461210218"
+     x2="679.0701986650836"
+     y1="278.6242827257997"
+     x1="708.1970032844257"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line72" />
+  <line
+     y2="197.47134086349962"
+     x2="557.9586279691705"
+     y1="168.86774663894266"
+     x1="619.2740172356062"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line74" />
+  <line
+     y2="186.01354183937292"
+     x2="533.7199614190795"
+     y1="164.5896781655415"
+     x1="579.055258124046"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line76" />
+  <line
+     y2="186.01354183937292"
+     x2="533.7199614190795"
+     y1="146.13676426705305"
+     x1="563.9206869076022"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line78" />
+  <line
+     y2="259.4582816327974"
+     x2="469.0826540752772"
+     y1="291.6150516544397"
+     x1="434.2639697817549"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line80" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="136.5376890987183"
+     x1="379.6726621218868"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line82" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="142.3455024827075"
+     x1="412.47176202659693"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line84" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="111.19343396155926"
+     x1="424.9469509007782"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line86" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="231.9987508869603"
+     x1="369.79811820678725"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line88" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="174.58288580123005"
+     x1="368.9094208132372"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line90" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="134.45987887315073"
+     x1="470.66093080706287"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line92" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="142.94814675215994"
+     x1="443.28335943021114"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line94" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="174.26123440818398"
+     x1="468.27345190648833"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line96" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="211.27573293833274"
+     x1="403.4526616117573"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line98" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="220.10411511647237"
+     x1="424.42885145400817"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line100" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="192.4464766998527"
+     x1="390.92026379426187"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line102" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="163.44317175088366"
+     x1="393.746908668506"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line104" />
+  <line
+     y2="178.03086901657645"
+     x2="430.1438209831776"
+     y1="208.42520502125188"
+     x1="450.800833087877"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line106" />
+  <line
+     y2="278.6242827257997"
+     x2="708.1970032844257"
+     y1="243.96746275302905"
+     x1="725.8369401575354"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line108" />
+  <line
+     y2="168.86774663894266"
+     x2="619.2740172356062"
+     y1="145.4165521537357"
+     x1="657.953968668548"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line110" />
+  <line
+     y2="174.58288580123005"
+     x2="368.9094208132372"
+     y1="155.35553418007913"
+     x1="322.57196216312843"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line112" />
+  <line
+     y2="174.58288580123005"
+     x2="368.9094208132372"
+     y1="181.41723308976378"
+     x1="319.0140307297948"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line114" />
+  <line
+     y2="136.5376890987183"
+     x2="379.6726621218868"
+     y1="100.45478846144027"
+     x1="333.518639046518"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line116" />
+  <line
+     y2="111.19343396155926"
+     x2="424.9469509007782"
+     y1="75.29554207505512"
+     x1="393.2179325594706"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line118" />
+  <line
+     y2="111.19343396155926"
+     x2="424.9469509007782"
+     y1="64.99922363311516"
+     x1="415.90894887037126"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line120" />
+  <line
+     y2="111.19343396155926"
+     x2="424.9469509007782"
+     y1="53.571854003455186"
+     x1="441.52835842051496"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line122" />
+  <line
+     y2="134.45987887315073"
+     x2="470.66093080706287"
+     y1="123.0264816393679"
+     x1="513.8883709365388"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line124" />
+  <line
+     y2="134.45987887315073"
+     x2="470.66093080706287"
+     y1="87.34141380374788"
+     x1="476.33076121465524"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line126" />
+  <line
+     y2="134.45987887315073"
+     x2="470.66093080706287"
+     y1="90.4422762013775"
+     x1="497.2802614992973"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line128" />
+  <line
+     y2="134.45987887315073"
+     x2="470.66093080706287"
+     y1="101.94483134389297"
+     x1="513.5059170795603"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line130" />
+  <line
+     y2="231.9987508869603"
+     x2="369.79811820678725"
+     y1="238.88825918102938"
+     x1="326.5269988578857"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line132" />
+  <line
+     y2="231.9987508869603"
+     x2="369.79811820678725"
+     y1="268.18735809407036"
+     x1="312.601772021002"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line134" />
+  <line
+     y2="231.9987508869603"
+     x2="369.79811820678725"
+     y1="282.26236264181597"
+     x1="348.6812168179763"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line136" />
+  <line
+     y2="100.45478846144027"
+     x2="333.518639046518"
+     y1="77.32810408652888"
+     x1="299.11508935699237"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line138" />
+  <line
+     y2="53.571854003455186"
+     x2="441.52835842051496"
+     y1="11.545550345162571"
+     x1="459.8705539224606"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line140" />
+  <line
+     y2="268.18735809407036"
+     x2="312.601772021002"
+     y1="268.4496645942025"
+     x1="269.06840689468356"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line142" />
+  <line
+     y2="268.18735809407036"
+     x2="312.601772021002"
+     y1="305.4435599445208"
+     x1="278.98374733176263"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line144" />
+  <line
+     y2="282.26236264181597"
+     x2="348.6812168179763"
+     y1="326.01818343579106"
+     x1="331.1629557335509"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line146" />
+  <line
+     y2="305.4435599445208"
+     x2="278.98374733176263"
+     y1="340.53061089597026"
+     x1="258.2423326479762"
+     style="stroke-width: 3.16228;"
+     class="link"
+     id="line148" />
+  <circle
+     cy="374.48641309390723"
+     cx="523.6649487480305"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle150">
+    <title
+       id="title152">Privacy and Security Teaching Kit</title>
+  </circle>
+  <circle
+     cy="413.65608464609056"
+     cx="536.1132098564593"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle154">
+    <title
+       id="title156">Spectrogram for Understanding Privacy</title>
+  </circle>
+  <circle
+     cy="353.18202071511007"
+     cx="554.3010151762281"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle158">
+    <title
+       id="title160">Remix for Cybersafety</title>
+  </circle>
+  <circle
+     cy="304.353590254645"
+     cx="509.75014484601036"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle162">
+    <title
+       id="title164">Lightbeam Activity</title>
+  </circle>
+  <circle
+     cy="364.40042900101855"
+     cx="589.7594828886972"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle166">
+    <title
+       id="title168">Privacy Introductions and Setup</title>
+  </circle>
+  <circle
+     cy="384.1930505414367"
+     cx="563.3348332710301"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle170">
+    <title
+       id="title172">Protect Your Privacy</title>
+  </circle>
+  <circle
+     cy="425.30544623957246"
+     cx="496.85800164886246"
+     style="fill: rgb(255, 127, 14);"
+     r="5"
+     class="node"
+     id="circle174">
+    <title
+       id="title176">X-Ray Goggles Cheatsheet</title>
+  </circle>
+  <circle
+     cy="376.82069306408084"
+     cx="481.526325778221"
+     style="fill: rgb(255, 127, 14);"
+     r="5"
+     class="node"
+     id="circle178">
+    <title
+       id="title180">HTML Cheatsheet</title>
+  </circle>
+  <circle
+     cy="397.92853707941106"
+     cx="495.316989388324"
+     style="fill: rgb(255, 127, 14);"
+     r="5"
+     class="node"
+     id="circle182">
+    <title
+       id="title184">CSS Cheatsheet</title>
+  </circle>
+  <circle
+     cy="406.23248320932987"
+     cx="557.5843352278836"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle186">
+    <title
+       id="title188">Privacy and Remix Teaching Kit</title>
+  </circle>
+  <circle
+     cy="348.96678676624407"
+     cx="647.940663080785"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle190">
+    <title
+       id="title192">Remix-a-thon: Save the Open Web</title>
+  </circle>
+  <circle
+     cy="320.33802000900346"
+     cx="470.19972179086056"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle194">
+    <title
+       id="title196">Popcorn Tutorial</title>
+  </circle>
+  <circle
+     cy="421.1169675823863"
+     cx="450.6314552353347"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle198">
+    <title
+       id="title200">Privacy Collage Activity</title>
+  </circle>
+  <circle
+     cy="335.4896526729579"
+     cx="490.9719721004826"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle202">
+    <title
+       id="title204">Revolutions in Media Teaching Kit</title>
+  </circle>
+  <circle
+     cy="221.7801077301601"
+     cx="494.6500978710071"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle206">
+    <title
+       id="title208">Remix of Privacy Matters</title>
+  </circle>
+  <circle
+     cy="459.0581166625718"
+     cx="525.570016434025"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle210">
+    <title
+       id="title212">Popcorn Remixes of Our Privacy Matters!</title>
+  </circle>
+  <circle
+     cy="468.7340090071405"
+     cx="480.75700602800566"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle214">
+    <title
+       id="title216">Online Safety</title>
+  </circle>
+  <circle
+     cy="458.55090129349975"
+     cx="462.334506439496"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle218">
+    <title
+       id="title220">Remixes of Our Privacy Matters! Screening and reactions</title>
+  </circle>
+  <circle
+     cy="470.4447438555717"
+     cx="503.5193740521578"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle222">
+    <title
+       id="title224">Our Privacy Matters! Screening &amp; Reactions</title>
+  </circle>
+  <circle
+     cy="442.13814294821634"
+     cx="449.8959465718873"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle226">
+    <title
+       id="title228">X-Ray Goggles  Gallery Walk </title>
+  </circle>
+  <circle
+     cy="355.27477909324864"
+     cx="687.4257560269145"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle230">
+    <title
+       id="title232">Remix-a-thon: Holiday Hacking</title>
+  </circle>
+  <circle
+     cy="385.1895411051943"
+     cx="662.9273482723689"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle234">
+    <title
+       id="title236">How to Hack: the Robot Dance</title>
+  </circle>
+  <circle
+     cy="312.4231461210218"
+     cx="679.0701986650836"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle238">
+    <title
+       id="title240">Hack the Web with the Goggles</title>
+  </circle>
+  <circle
+     cy="235.10750103485606"
+     cx="547.4708902550819"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle242">
+    <title
+       id="title244">Media Mesh: History's Web</title>
+  </circle>
+  <circle
+     cy="197.47134086349962"
+     cx="557.9586279691705"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle246">
+    <title
+       id="title248">Hack a Commercial: with Popcorn Maker</title>
+  </circle>
+  <circle
+     cy="186.01354183937292"
+     cx="533.7199614190795"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle250">
+    <title
+       id="title252">Make it Interactive: Bring a Radio Story to Life</title>
+  </circle>
+  <circle
+     cy="259.4582816327974"
+     cx="469.0826540752772"
+     style="fill: rgb(44, 160, 44);"
+     r="5"
+     class="node"
+     id="circle254">
+    <title
+       id="title256">History of Media Discussion Guide</title>
+  </circle>
+  <circle
+     cy="252.9186549814076"
+     cx="514.4178533857875"
+     style="fill: rgb(152, 223, 138);"
+     r="5"
+     class="node"
+     id="circle258">
+    <title
+       id="title260">A Brief History of Storytelling</title>
+  </circle>
+  <circle
+     cy="178.03086901657645"
+     cx="430.1438209831776"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle262">
+    <title
+       id="title264">Storycamp Resources</title>
+  </circle>
+  <circle
+     cy="219.54969242505388"
+     cx="593.0195236690944"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle266">
+    <title
+       id="title268">How to run a &quot;spectrogram&quot; ice-breaker</title>
+  </circle>
+  <circle
+     cy="354.9813847615393"
+     cx="724.2780121344463"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle270">
+    <title
+       id="title272">Hack a Board Game</title>
+  </circle>
+  <circle
+     cy="242.96406652034082"
+     cx="594.3681043313236"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle274">
+    <title
+       id="title276">Games in the Wild</title>
+  </circle>
+  <circle
+     cy="263.72976327218737"
+     cx="580.838315756982"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle278">
+    <title
+       id="title280">Adventure Time!</title>
+  </circle>
+  <circle
+     cy="278.6242827257997"
+     cx="708.1970032844257"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle282">
+    <title
+       id="title284">A Strong Wind Blows for the Open Web</title>
+  </circle>
+  <circle
+     cy="168.86774663894266"
+     cx="619.2740172356062"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle286">
+    <title
+       id="title288">Write the Rules: Procedural Storytelling</title>
+  </circle>
+  <circle
+     cy="164.5896781655415"
+     cx="579.055258124046"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle290">
+    <title
+       id="title292">Radio Rookies Stop and Frisk CALL OUT</title>
+  </circle>
+  <circle
+     cy="146.13676426705305"
+     cx="563.9206869076022"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle294">
+    <title
+       id="title296">Hack Video on the Web: with Popcorn Maker</title>
+  </circle>
+  <circle
+     cy="291.6150516544397"
+     cx="434.2639697817549"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle298">
+    <title
+       id="title300">Popcorn Teaching Kit</title>
+  </circle>
+  <circle
+     cy="136.5376890987183"
+     cx="379.6726621218868"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle302">
+    <title
+       id="title304">Make it! Share it! Teaching Kit</title>
+  </circle>
+  <circle
+     cy="142.3455024827075"
+     cx="412.47176202659693"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle306">
+    <title
+       id="title308">Online Storytelling Teaching Kit</title>
+  </circle>
+  <circle
+     cy="111.19343396155926"
+     cx="424.9469509007782"
+     style="fill: rgb(152, 223, 138);"
+     r="5"
+     class="node"
+     id="circle310">
+    <title
+       id="title312">Planning a Web Native Film: SVT</title>
+  </circle>
+  <circle
+     cy="231.9987508869603"
+     cx="369.79811820678725"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle314">
+    <title
+       id="title316">Remix Teaching Kit</title>
+  </circle>
+  <circle
+     cy="174.58288580123005"
+     cx="368.9094208132372"
+     style="fill: rgb(214, 39, 40);"
+     r="5"
+     class="node"
+     id="circle318">
+    <title
+       id="title320">Designing for the Web: Planning</title>
+  </circle>
+  <circle
+     cy="134.45987887315073"
+     cx="470.66093080706287"
+     style="fill: rgb(214, 39, 40);"
+     r="5"
+     class="node"
+     id="circle322">
+    <title
+       id="title324">Schematics and Storyboards</title>
+  </circle>
+  <circle
+     cy="142.94814675215994"
+     cx="443.28335943021114"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle326">
+    <title
+       id="title328">Ways of the Web Teaching Kit</title>
+  </circle>
+  <circle
+     cy="174.26123440818398"
+     cx="468.27345190648833"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle330">
+    <title
+       id="title332">Episode 1: Introduction</title>
+  </circle>
+  <circle
+     cy="211.27573293833274"
+     cx="403.4526616117573"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle334">
+    <title
+       id="title336">Episode 2: Media History</title>
+  </circle>
+  <circle
+     cy="220.10411511647237"
+     cx="424.42885145400817"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle338">
+    <title
+       id="title340">Episode 3: Remix</title>
+  </circle>
+  <circle
+     cy="192.4464766998527"
+     cx="390.92026379426187"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle342">
+    <title
+       id="title344">Episode 4: Ways of the Web</title>
+  </circle>
+  <circle
+     cy="163.44317175088366"
+     cx="393.746908668506"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle346">
+    <title
+       id="title348">Episode 5: Web Native Film</title>
+  </circle>
+  <circle
+     cy="208.42520502125188"
+     cx="450.800833087877"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle350">
+    <title
+       id="title352">Episode 6: Planning Web Native Filmmaking</title>
+  </circle>
+  <circle
+     cy="243.96746275302905"
+     cx="725.8369401575354"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle354">
+    <title
+       id="title356">Adventure Time with Javascript</title>
+  </circle>
+  <circle
+     cy="145.4165521537357"
+     cx="657.953968668548"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle358">
+    <title
+       id="title360">Remix-a-thon: Cultural Heritage</title>
+  </circle>
+  <circle
+     cy="155.35553418007913"
+     cx="322.57196216312843"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle362">
+    <title
+       id="title364">Building the How to: with Popcorn Maker</title>
+  </circle>
+  <circle
+     cy="181.41723308976378"
+     cx="319.0140307297948"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle366">
+    <title
+       id="title368">Plan the Tutorial: Paper Prototyping and Schematics</title>
+  </circle>
+  <circle
+     cy="100.45478846144027"
+     cx="333.518639046518"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle370">
+    <title
+       id="title372">Hack the Tutorial with Popcorn Maker</title>
+  </circle>
+  <circle
+     cy="75.29554207505512"
+     cx="393.2179325594706"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle374">
+    <title
+       id="title376">Make a Mashup: with the Gender Remixer</title>
+  </circle>
+  <circle
+     cy="64.99922363311516"
+     cx="415.90894887037126"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle378">
+    <title
+       id="title380">Principles of Design: Page Elements</title>
+  </circle>
+  <circle
+     cy="53.571854003455186"
+     cx="441.52835842051496"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle382">
+    <title
+       id="title384">Remix Context: with Popcorn Maker</title>
+  </circle>
+  <circle
+     cy="123.0264816393679"
+     cx="513.8883709365388"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle386">
+    <title
+       id="title388">Localize it: Street Level Journalism</title>
+  </circle>
+  <circle
+     cy="87.34141380374788"
+     cx="476.33076121465524"
+     style="fill: rgb(214, 39, 40);"
+     r="5"
+     class="node"
+     id="circle390">
+    <title
+       id="title392">Designing for the Web: Images</title>
+  </circle>
+  <circle
+     cy="90.4422762013775"
+     cx="497.2802614992973"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle394">
+    <title
+       id="title396">Color Collapse</title>
+  </circle>
+  <circle
+     cy="101.94483134389297"
+     cx="513.5059170795603"
+     style="fill: rgb(214, 39, 40);"
+     r="5"
+     class="node"
+     id="circle398">
+    <title
+       id="title400">Designing for the Web: Design</title>
+  </circle>
+  <circle
+     cy="238.88825918102938"
+     cx="326.5269988578857"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle402">
+    <title
+       id="title404">Evil Twin: The Opposite of Me</title>
+  </circle>
+  <circle
+     cy="268.18735809407036"
+     cx="312.601772021002"
+     style="fill: rgb(214, 39, 40);"
+     r="5"
+     class="node"
+     id="circle406">
+    <title
+       id="title408">Crash Course HTML and CSS</title>
+  </circle>
+  <circle
+     cy="282.26236264181597"
+     cx="348.6812168179763"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle410">
+    <title
+       id="title412">Make Your Own How-to with Thimble</title>
+  </circle>
+  <circle
+     cy="77.32810408652888"
+     cx="299.11508935699237"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle414">
+    <title
+       id="title416">Animated Music Video</title>
+  </circle>
+  <circle
+     cy="11.545550345162571"
+     cx="459.8705539224606"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle418">
+    <title
+       id="title420">Neighborhood Tour</title>
+  </circle>
+  <circle
+     cy="268.4496645942025"
+     cx="269.06840689468356"
+     style="fill: rgb(31, 119, 180);"
+     r="5"
+     class="node"
+     id="circle422">
+    <title
+       id="title424">Thimble Teaching Kit</title>
+  </circle>
+  <circle
+     cy="305.4435599445208"
+     cx="278.98374733176263"
+     style="fill: rgb(174, 199, 232);"
+     r="5"
+     class="node"
+     id="circle426">
+    <title
+       id="title428">Hack the Web with Thimble</title>
+  </circle>
+  <circle
+     cy="326.01818343579106"
+     cx="331.1629557335509"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle430">
+    <title
+       id="title432">Webstructable</title>
+  </circle>
+  <circle
+     cy="340.53061089597026"
+     cx="258.2423326479762"
+     style="fill: rgb(255, 187, 120);"
+     r="5"
+     class="node"
+     id="circle434">
+    <title
+       id="title436">Internet Defense League</title>
+  </circle>
+  <text
+     xml:space="preserve"
+     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
+     x="758.18182"
+     y="56.81818"
+     id="text3419"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3421"
+       x="758.18182"
+       y="56.81818" /></text>
+  <g
+     id="g3670"
+     transform="translate(-69.425029,1.928473)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text3423"
+       y="46.590908"
+       x="765"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Fira Sans;-inkscape-font-specification:Fira Sans Light"
+       xml:space="preserve"><tspan
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="46.590908"
+         x="765"
+         id="tspan3425"
+         sodipodi:role="line">kit</tspan><tspan
+         id="tspan3427"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="69.090912"
+         x="765"
+         sodipodi:role="line">activity</tspan><tspan
+         id="tspan3429"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="91.590912"
+         x="765"
+         sodipodi:role="line">make</tspan><tspan
+         id="tspan3431"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="114.09091"
+         x="765"
+         sodipodi:role="line">cheatsheet</tspan><tspan
+         id="tspan3433"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="136.59091"
+         x="765"
+         sodipodi:role="line">discussion</tspan><tspan
+         id="tspan3435"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="159.09091"
+         x="765"
+         sodipodi:role="line">reading</tspan><tspan
+         id="tspan3437"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#999999;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         y="181.59091"
+         x="765"
+         sodipodi:role="line">crash course</tspan></text>
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAAg0lEQVQY
+lXXQPQrCQBRF4TOPlP4VRkQJIwERyRIkabRyve5AZgep0mVQIZYR65dCEdTMaT9uc42qAtxLvOPZ
+AAzmJDtmGWBUleqEd/xkc9bH6L37rz4zWUm/vfJOeNyC3F4laAAIw0UQR0vBFkG2hRBvSfc9lh6Y
+bszXLe0FYJx8bukAOiInkJLwXCQAAAAASUVORK5CYII=
+"
+       id="image3459"
+       x="751.17603"
+       y="81.342529" />
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAAn0lEQVQY
+lWP8//8/AwPD51273i1a9PPWbQYGBnZ1NaG4OF5XVwYGBsb///+/bG9/t3ARAyoQTkoSKytl/LRz
+55O8fAZsQGbKFOb0//9/P3uOVfrPmzfMGcws///8wSr998MHJqwScMDEoa2FS45DW5tJODkZl7Rw
+cjITj6OjSHYWppxobi6PvR0jcrB8v3yFgYGBU09XKC6e19WFgYEBAHJ8OhOrmoiYAAAAAElFTkSu
+QmCC
+"
+       id="image3482"
+       x="751.17603"
+       y="172.05229" />
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAApElEQVQY
+lWP8//8/AwPD9isv5h+9f/PFZwYGBnUJ3iRrRQ8dCQYGBsb///83bbk278h9BlSQZqdU5aXJsv3K
+C0w5BgaGWYfumcgLMv/SD3764TumNAMDw+svv5iuPP2IVY6BgeHy049MuOQggElHmh+XnK40P1Oa
+nRIu6XR7JSYXTfF8Z1VMuUJXNUd1MUbkYLn4+AMDA4O+rECyjaK7tgQDAwMAvtA5wl5gbZAAAAAA
+SUVORK5CYII=
+"
+       id="image3540"
+       x="751.17603"
+       y="36.023418" />
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAAi0lEQVQY
+lWP8//8/AwPDs3c/7zz/9un7HwYGBn4uFmUJLikhdgYGBsb///9ffvj5zvNvDKhAVZJLR56XBaKP
+AQPcfv5NmJeNCascBNx58Y3pw9ffuKQ/fP3NhEsOApgEuFlxyQlwszKpSXHhklaV4mKSEGTXkOHG
+lNOU4ZEQYGdEDhaIMwV5WOHBAgAP4jZ0McvxUgAAAABJRU5ErkJggg==
+"
+       id="image3563"
+       x="751.17603"
+       y="58.682972" />
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAAmklEQVQY
+lWP8//8/AwPDvW+3rnw6++7XGwYGBiE2EV0+Y0UuNQYGBsb///8fe7fv8qezDKhAn9/UQtCB5d63
+W5hyDAwMFz+elmCXZrqCTQ4CLn86y/T650tc0q9/vWTCJQcBTKLs4rjkRNnEmfT5zHBJ6/ObMclz
+KRsLWGHKmQhYy3EqMSIHy6ufLxgYGMTYJXT5TBS5VBkYGACV3javPYTk7QAAAABJRU5ErkJggg==
+"
+       id="image3586"
+       x="751.17603"
+       y="150.35696" />
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAApElEQVQY
+lWP8//8/AwPD7oe7l1xfcuf9HQYGBlVB1RjNGBd5FwYGBsb///93ne5afG0xAypI0E4oNilmtk60
+7j7dzYABLry+oCGkwczozvj863NMaQYGhrc/3jKzebL9+fcHq/THnx+ZsErAAZOmsCYuOS1hLaZE
+7URc0onaiUwOsg4Z+hmYctkG2bYytozIwXL1zVUGBgYdEZ1YrVhnOWcGBgYAwuY4k+uFw14AAAAA
+SUVORK5CYII=
+"
+       id="image3644"
+       x="751.17603"
+       y="126.17953" />
+    <image
+       width="10"
+       height="10"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAAA3NCSVQICAjb4U/gAAAAk0lEQVQY
+lWP8//8/AwMDw7VNDCenM7y6xsDAwCCmzWCRyaDpy8DAwPj//3+GHZUMJ6YxoAGrPAa3Zsb/Vzcy
+rIpFl4OAiKXMDSYfGD4+xi795RUTw/ML2OUYGBieX2DCKcfAwMDAwMQgaYBTUtKAicEqD6e0dT4T
+g7ong305FjnHKgZVN0aUYHl6joGBgUHaGB4sAHxYKob9Y6FAAAAAAElFTkSuQmCC
+"
+       id="image3667"
+       x="751.17603"
+       y="105.03786" />
+  </g>
+</svg>

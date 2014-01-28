@@ -1,0 +1,16 @@
+{
+  "name": "webmaker-kit-mapper",
+  "scripts": {
+    "start": "app.js"
+  },
+  "dependencies": {
+    "request": "1.9.x",
+    "jsdom": "~0.8.8",
+    "makeapi-client": "mozilla/makeapi-client",
+    "underscore": "~1.5.2"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": "v0.8.x"
+  }
+}
