@@ -8,7 +8,7 @@ var request = require('request'),
 var visitedLinks = [],
 	makes        = [];
 
-var getLinks = function(make){
+var getLinks = function(make, done){
 	request.get(make.url + '_', function(error, response, body){
 		if(!error && response.statusCode === 200){
 			body = body.replace(/<script(.*?)>(.*?)<\/script>/, '', 'ig');
@@ -21,7 +21,7 @@ var getLinks = function(make){
 			Array.prototype.slice.call(document.links).forEach(function(e, i, a){
 				if(/(.+)\.makes\.org/.test(e.href)){
 					tmp.push(e.href);
-					console.log(e.href);
+					console.log('href', e.href);
 				}
 			});
 
@@ -37,18 +37,27 @@ var getLinks = function(make){
 				url: make.url
 			}) + ',\n');
 
-			tmp.forEach(function(link, i, a){
-				getMakeLinks(link, visitedLinks.indexOf(make.url));
-			});
+			//tmp.forEach(function(link, i, a){
+			function fetchNext() {
+				var link = tmp.shift();
+				if (! link ) if(done) return done();
+
+				console.log('fetching', link);
+				getMakeLinks(link, visitedLinks.indexOf(make.url), fetchNext);
+			}
+			fetchNext();
+
+			//});
 		}
 	});
 };
 
-var getMakeLinks = function(url, target){
+var getMakeLinks = function(url, target, done){
 	if(visitedLinks.indexOf(url) === -1){
 		makeapi.url(url).then(function(err, kit){
 			if(err || kit.length === 0){
 				console.log(err);
+				if (done) done();
 				return;
 			}
 			
@@ -62,13 +71,18 @@ var getMakeLinks = function(url, target){
 						url: url
 					}) + ',\n');
 
-				getLinks(kit[0], target);
+				console.log('getting linsk for ', kit[0]);
+				getLinks(kit[0]/*, target*/, done);
 			}
 		});
 	}
 	else {
 		// do recheck for connections
+		if (done) done();
 	}
 };
 
-getMakeLinks(process.argv[2]);
+getMakeLinks(process.argv[2], null, function everythingIsDoneNow() {
+	// write output json
+	console.log('win');
+});
