@@ -66,6 +66,9 @@ var getMakeLinks = function(url, target){
 			}
 		});
 	}
+	else {
+		// do recheck for connections
+	}
 };
 
 getMakeLinks(process.argv[2]);
