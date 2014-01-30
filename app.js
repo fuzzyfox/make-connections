@@ -1,3 +1,8 @@
+/*
+
+	Hat Tip to STomlinson for helping solve node async pain.
+ */ 
+
 var request = require('request'),
 	jsdom   = require('jsdom').jsdom,
 	fs      = require('fs'),
@@ -6,7 +11,8 @@ var request = require('request'),
 	});
 
 var visitedLinks = [],
-	makes        = [];
+	nodes        = [],
+	connections  = [];
 
 var getLinks = function(make, done){
 	request.get(make.url + '_', function(error, response, body){
@@ -21,21 +27,28 @@ var getLinks = function(make, done){
 			Array.prototype.slice.call(document.links).forEach(function(e, i, a){
 				if(/(.+)\.makes\.org/.test(e.href)){
 					tmp.push(e.href);
-					console.log('href', e.href);
+					// console.log('href', e.href);
 				}
 			});
 
 			make.links = tmp;
 
-			fs.appendFile('tmp', JSON.stringify({
-				url: make.url,
-				links: make.links
-			}) + ',\n');
-			fs.appendFile('nodes', JSON.stringify({
+			// fs.appendFile('tmp', JSON.stringify({
+			// 	url: make.url,
+			// 	links: make.links
+			// }) + ',\n');
+			// fs.appendFile('nodes', JSON.stringify({
+			// 	name: make.title,
+			// 	group: 0,
+			// 	url: make.url
+			// }) + ',\n');
+			
+			nodes.push({
 				name: make.title,
 				group: 0,
-				url: make.url
-			}) + ',\n');
+				connections: make.links
+			});
+			
 
 			//tmp.forEach(function(link, i, a){
 			function fetchNext() {
@@ -64,14 +77,21 @@ var getMakeLinks = function(url, target, done){
 			if(visitedLinks.indexOf(kit[0].url) === -1){
 				visitedLinks.push(kit[0].url);
 
-				fs.appendFile('links', JSON.stringify({
-						source: visitedLinks.indexOf(kit[0].url), 
-						target: target || 0,
-						value: 10,
-						url: url
-					}) + ',\n');
+				// fs.appendFile('links', JSON.stringify({
+				// 		source: visitedLinks.indexOf(kit[0].url), 
+				// 		target: target || 0,
+				// 		value: 10,
+				// 		url: url
+				// 	}) + ',\n');
+				
+				connections.push({
+					source: visitedLinks.indexOf(kit[0].url),
+					target: target || 0,
+					value: 10,
+					url: url
+				});
 
-				console.log('getting linsk for ', kit[0]);
+				console.log('getting links for ', kit[0]);
 				getLinks(kit[0]/*, target*/, done);
 			}
 		});
@@ -79,10 +99,25 @@ var getMakeLinks = function(url, target, done){
 	else {
 		// do recheck for connections
 		if (done) done();
+
+		var tmp = {
+			source: visitedLinks.indexOf(url),
+			target: target || 0,
+			value: 10,
+			url: url
+		};
+
+		if(connections.indexOf(tmp) === -1){
+			connections.push(tmp);
+		}
 	}
 };
 
 getMakeLinks(process.argv[2], null, function everythingIsDoneNow() {
 	// write output json
 	console.log('win');
+	fs.writeFile('output.json', JSON.stringify({
+		nodes: nodes,
+		links: connections
+	}));
 });
