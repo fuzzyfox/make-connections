@@ -22,17 +22,19 @@ var width = 1000,
 
 var color = d3.scale.category20();
 
-var force = d3.layout.force()
-    .charge(-360)
-    .linkDistance(100)
-    .size([width, height]);
+var force = d3.layout.force();
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
 d3.json("example.json", function(error, graph) {
+  var k = Math.sqrt(graph.nodes.length / (width * height));
+
   force
+      .charge(-20 / k)
+      .gravity(100 * k)
+      .size([width, height])
       .nodes(graph.nodes)
       .links(graph.links)
       .start();
@@ -41,7 +43,7 @@ d3.json("example.json", function(error, graph) {
       .data(graph.links)
     .enter().append("line")
       .attr("class", "link")
-      .style("stroke-width", function(d) { return Math.sqrt(d.value); });
+      .style("stroke-width", function(d) { return Math.sqrt(d.value) / 2; });
 
   var node = svg.selectAll(".node")
       .data(graph.nodes)

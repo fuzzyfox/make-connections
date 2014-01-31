@@ -27,7 +27,6 @@ var getLinks = function(make, done){
 			Array.prototype.slice.call(document.links).forEach(function(e, i, a){
 				if(/(.+)\.makes\.org/.test(e.href)){
 					tmp.push(e.href);
-					// console.log('href', e.href);
 				}
 			});
 
@@ -91,8 +90,8 @@ var getMakeLinks = function(url, target, done){
 					url: url
 				});
 
-				console.log('getting links for ', kit[0]);
-				getLinks(kit[0]/*, target*/, done);
+				console.log('getting links for ', kit[0].url);
+				getLinks(kit[0], done);
 			}
 		});
 	}
