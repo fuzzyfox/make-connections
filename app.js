@@ -45,7 +45,9 @@ var getLinks = function(make, done){
 			nodes.push({
 				name: make.title,
 				group: 0,
-				connections: make.links
+				connections: tmp,
+				url: make.url,
+				make: make
 			});
 			
 
